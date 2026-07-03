@@ -2,9 +2,9 @@
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
 criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+   'matematica 1',
+    'me da nota professor 1',
+    'faça a prova que eu te dou 1'
 )
 
 criaCartao(
