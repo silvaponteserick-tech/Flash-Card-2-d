@@ -1,6 +1,9 @@
 // Duplique o bloco criaCartao(...) abaixo para adicionar mais flash cards.
 // Troque disciplina, pergunta e resposta pelos conteúdos que você criou.
 
+
+    'Resposta 2'
+)
 criaCartao(
    'matematica 1',
     'me da nota professor 1',
@@ -8,143 +11,65 @@ criaCartao(
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'História',
+    'Quem foi o primeiro imperador do Brasil?',
+    'Dom Pedro I.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Matemática',
+    'Como se calcula a área de um triângulo?',
+    'Base vezes altura dividido por dois.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Geografia',
+    'Qual é o maior país do mundo em extensão territorial?',
+    'A Rússia.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Ciências',
+    'Qual é o planeta mais próximo do Sol?',
+    'Mercúrio.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Português',
+    'O que é um adjetivo?',
+    'É a palavra que caracteriza ou dá uma qualidade a um substantivo.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'História',
+    'Em que ano ocorreu o Descobrimento do Brasil?',
+    'No ano de 1500.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Matemática',
+    'O que é um número primo?',
+    'Um número divisível apenas por 1 e por ele mesmo.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Geografia',
+    'Qual é a capital do Brasil?',
+    'Brasília.'
 )
 
 criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
+    'Ciências',
+    'Qual gás os seres humanos respiram para sobreviver?',
+    'O gás oxigênio.'
 )
 
 criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
+    'Português',
+    'O que indica o ponto de exclamação?',
+    'Indica emoções como surpresa, espanto ou ordem.'
+
 )
 
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
-)
 
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
-)
 
-criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
-)
-
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
-)
-
-criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
-criaCartao(
-   'Disciplina 1',
-    'Pergunta 1',
-    'Resposta 1'
-)
-
-criaCartao(
-    'Disciplina 2',
-    'Pergunta 2',
-    'Resposta 2'
-)
-
-criaCartao(
-    'Disciplina 3',
-    'Pergunta 3',
-    'Resposta 3'
-)
